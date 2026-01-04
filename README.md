@@ -16,7 +16,7 @@ Data is organized as a comma-separated-values (CSV) file with the following colu
 - `cop_hat` : Predicted COP.
 - `time_gt` : Ground Truth TOI.
 - `cop_gt` : Ground truth COP.
-- `subject` : Subject identifier.
+- `subject` : Subject identifier (using zero indexing).
  
 #### TOI
 
